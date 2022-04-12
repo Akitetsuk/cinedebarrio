@@ -7,8 +7,8 @@ import PanelLetters from './components/PanelLetters.vue';
 export default {
   data() {
     return {
-      guessedLetters: ['a', 't', 'r'],
-      movie: "Star Wars"
+      guessedLetters: ['a','s'],
+      movie: "star wars "
     }
   }
 }
